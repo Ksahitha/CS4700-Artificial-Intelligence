@@ -21,8 +21,3 @@ This repository contains the solutions for the bonus assignment in the CS4700 Ar
 
 4. **GridWorld Environment - Updating the State**
    - The task involves updating the state in the GridWorld environment based on the action taken.
-
-## How to Run the Code
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/CS4700-Artificial-Intelligence.git
