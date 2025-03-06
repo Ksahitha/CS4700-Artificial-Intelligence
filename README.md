@@ -6,7 +6,7 @@
 - Course: CS4700 Artificial Intelligence
 - Spring 2025
 
-## Assignment Overview
+## Bonus Assignment Overview
 This repository contains the solutions for the bonus assignment in the CS4700 Artificial Intelligence course.
 
 ### Exercises Covered:
